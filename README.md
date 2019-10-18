@@ -1,10 +1,10 @@
 # Pyboard_sanmuchina
 Pinout for the pyboard v3 created by sanmuchina
 
-It's a PyBoard v3 (user made)
+It's a PyBoard v3 (user made.
 
-the accelerometer is identical to that of pyboard V1.1. 
-It is possible to use all examples of pyboard (with specific libraries). 
+The accelerometer is identical to that of pyboard v1.1. 
+It is possible to use all examples made for the pyboard (with the same libraries). 
 
 Please refer to the attached pin diagram.
 
