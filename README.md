@@ -1,4 +1,4 @@
-# Pyboard_sanmuchina
+# Pyboard sanmuchina
 Pinout for the pyboard v3 created by sanmuchina
 
 It's a PyBoard v3 (user made.
